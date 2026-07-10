@@ -1,0 +1,13 @@
+DELHI WEB-DEV LEAD GENERATION - KEY INSIGHTS
+=======================================================
+
+1. 49.0% of all 11784 businesses tracked across Delhi have no website -- a large addressable market for web development services.
+
+2. 'hardware stores' has the largest website gap (74% have no site), while 'clinics' has the smallest (34%). Prioritize outreach to the high-gap categories.
+
+3. 106 businesses have no website but scored >=0.70 on the website-propensity model -- meaning they look just like businesses that already have one (similar rating, review volume, category, area). These are the strongest leads.
+
+4. 'Rohini, Delhi' has the most high-propensity leads (9) -- the most efficient area to start a door-to-door or local-ad outreach campaign.
+
+5. INNOVATION - Lead Score: combines website-propensity with business size (review_count percentile) so outreach prioritizes established, busy businesses over small ones -- better clients, same amount of sales effort. Top lead: 'Daisy Ladies Salon' in 'Civil Lines, Delhi' (lead score 0.85).
+

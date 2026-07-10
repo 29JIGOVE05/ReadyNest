@@ -1,0 +1,201 @@
+name,area,category_searched,rating,review_count,website_propensity_score,lead_score
+Daisy Ladies Salon,"Civil Lines, Delhi",salons,4.7,3247.0,0.7999680330102873,0.8517769310656786
+Gola Sizzlers Preet Vihar- Luxury dining and party hall,"Laxmi Nagar, Delhi",restaurants,4.5,3726.0,0.7934298323329468,0.8485496715603984
+The GT Road,"Connaught Place, New Delhi",restaurants,4.3,10552.0,0.7822483606947391,0.845290115462096
+Bbeauters beauty & wellness clinic,"Pitampura, Delhi",clinics,4.9,430.0,0.8287547428376133,0.8301196694672981
+"Mahabir Danwar Jewellers - Diamond and Gold Jewellery Shop | Jadau, Polki, Kundan Jewellery Shop | Pitam Pura, Delhi","Pitampura, Delhi",jewellery shops,4.9,679.0,0.8089360263561228,0.830104699418144
+H2B Salon,"Civil Lines, Delhi",salons,4.8,2280.0,0.7694197196835266,0.8258515892455965
+SAHA JEWELLERS - ONE GRAM GOLD JEWELLERY,"Karol Bagh, Delhi",jewellery shops,4.8,355.0,0.8274843738912726,0.8214708956339254
+SMUK SALON,"Saket, Delhi",salons,4.8,1415.0,0.7713417900046359,0.8202160696122416
+Firstcry.com Store Delhi Malviya Nagar,"Malviya Nagar, Delhi",grocery stores,4.9,1366.0,0.771255340026009,0.8196884265995212
+Pooja Dental Clinic,"Kalkaji, Delhi",clinics,4.9,1184.0,0.7704768974801067,0.8159774268519917
+Appearance Unisex Salon ( Best salon Near me),"Civil Lines, Delhi",salons,4.8,1024.0,0.7740210392809618,0.8149548659049777
+Nagi Jewellers,"Punjabi Bagh, Delhi",jewellery shops,4.8,776.0,0.7807516092758007,0.8128150538287006
+Manju's the world of glamour,"Rohini, Delhi",salons,4.9,1325.0,0.7585765189178902,0.810086608225222
+Amba Jewellers Pvt. Ltd. - Jewellery Shop In Lajpat Nagar,"Lajpat Nagar, Delhi",jewellery shops,4.7,1216.0,0.759240915988004,0.8092022052054435
+Cafeteria & Co.,"Model Town, Delhi",restaurants,4.4,13486.0,0.7285460773152848,0.8085808700376543
+Cut & Style Janakpuri block B,"Janakpuri, Delhi",salons,4.8,1619.0,0.7508746201347143,0.8080170783849574
+Daisy Ladies Salon,"Kamla Nagar, Delhi",salons,4.7,3247.0,0.736736765268622,0.8075150436465128
+Shahi Jewellers Rohini - Best Jeweller In Rohini,"Rohini, Delhi",jewellery shops,4.9,1201.0,0.7579168969398439,0.8074968451589288
+Gola Sizzlers Preet Vihar- Luxury dining and party hall,"Preet Vihar, Delhi",cafes,4.5,3726.0,0.7331876234949927,0.8063801253738305
+Gola Sizzlers Preet Vihar- Luxury dining and party hall,"Preet Vihar, Delhi",restaurants,4.5,3726.0,0.7319502771167656,0.8055139829090716
+Matchis Restaurant,"Rohini, Delhi",restaurants,4.7,777.0,0.7631069346598085,0.8005935393829733
+The Big Chill Cakery,"Connaught Place, New Delhi",bakeries,4.4,1816.0,0.7363472515304514,0.7993531106733921
+GLINT NAIL SALON & ACADEMY - Best nail salon | Best Eyelash Extensions | Best Nail art course | laser hair removal,"Ashok Vihar, Delhi",salons,4.9,1258.0,0.7426179400639705,0.7983965718856098
+Cafe Tesu,"Hauz Khas, Delhi",cafes,4.4,5370.0,0.7173454875894186,0.798301010862766
+Kapil Jewellers Pvt Ltd,"Model Town, Delhi",jewellery shops,4.9,5109.0,0.7171336195207577,0.7979710423150495
+R.K Steel Furniture,"Janakpuri, Delhi",furniture stores,4.9,1559.0,0.7369138777160791,0.7974400604220165
+Apollo Clinic - Bhartimedicare Pvt Ltd,"Rajouri Garden, Delhi",clinics,4.3,1825.0,0.7320453170275321,0.7965753205351894
+Murliwala Furniture -Furniture Store in Dwarka,"Dwarka, Delhi",furniture stores,4.6,882.0,0.7525865280911784,0.7964212963074235
+Megami | Artificial Jewellery & Purses | Bridal Jewellery on Rent,"Kamla Nagar, Delhi",jewellery shops,4.9,711.0,0.7533519666934871,0.792104162152569
+Miniso Hauz Khas Village,"Hauz Khas, Delhi",electronics shops,4.9,2518.0,0.7180288254491468,0.7920319425202851
+Kwality,"Connaught Place, New Delhi",restaurants,4.4,3909.0,0.7109856945306781,0.7918768373825473
+Cafe Tesu,"Hauz Khas, Delhi",restaurants,4.4,5370.0,0.7071427633651334,0.7911591039057664
+Cutzy salon,"Shahdara, Delhi",salons,4.9,1152.0,0.7360347878849786,0.7910375003084122
+Dwarkadheesh Jewellers,"Dwarka, Delhi",jewellery shops,4.9,407.0,0.776112749238599,0.7907529729099257
+Dripping Dose,"Rajendra Nagar, Delhi",bakeries,4.5,855.0,0.7422728182005908,0.7885010073424896
+Brew House by Drool,"Dwarka, Delhi",bakeries,4.2,1814.0,0.7210784684166008,0.7884573500369493
+"Siyonee Clothing | Ethnic Wear, Lehenga & Saree Shop In Chandni Chowk","Chandni Chowk, Delhi",clothing stores,4.8,4956.0,0.7033069852289744,0.7881626405253339
+Janpath Market,"Connaught Place, New Delhi",clothing stores,4.2,73837.0,0.6955928652791871,0.7868890541383375
+Dear Donna Salon,"Rohini, Delhi",salons,4.8,1106.0,0.7302596709416387,0.7862163717352717
+Sparta Gym,"Dwarka, Delhi",gyms,4.6,1095.0,0.7290809090295197,0.7850279165974803
+BlackJack,"Punjabi Bagh, Delhi",restaurants,4.4,4359.0,0.7000880343356572,0.7848453610591815
+Safdarjung Development Area market,"Hauz Khas, Delhi",bakeries,4.3,18290.0,0.6922182285332871,0.7837223101463113
+Kapil Jewellers Pvt Ltd,"Rohini, Delhi",jewellery shops,4.9,5109.0,0.6966530084003385,0.783634614530756
+Cafe Tesu,"Malviya Nagar, Delhi",cafes,4.4,5370.0,0.6962695291199404,0.7835478399341314
+SHEIN STYLE STORE,"Hauz Khas, Delhi",clothing stores,4.9,6406.0,0.6951947929781546,0.7832367011054694
+Runway 1 Delhi,"Rohini, Delhi",restaurants,4.2,5875.0,0.6944963682849183,0.7824623366921764
+Dripping Dose,"Patel Nagar, Delhi",bakeries,4.5,855.0,0.7321665329514501,0.7814266076680911
+BlackJack,"Punjabi Bagh, Delhi",cafes,4.4,4359.0,0.69462670227081,0.7810224286137885
+Ganga Ram's Watch Gallery,"Preet Vihar, Delhi",clothing stores,4.6,1953.0,0.7086479382367927,0.7808459443090074
+Coffee Bond,"South Extension, Delhi",cafes,4.4,1621.0,0.7119076730852875,0.7807921185645454
+Sarayu Clinics,"Rajendra Nagar, Delhi",clinics,4.6,342.0,0.7698275436996163,0.7802806646727762
+Echoes,"Model Town, Delhi",cafes,4.4,4906.0,0.6917929934518283,0.7799211853816777
+N S Telecom,"Model Town, Delhi",electronics shops,4.9,1236.0,0.7157890001010524,0.779304895226446
+The Cakery,"Laxmi Nagar, Delhi",bakeries,4.9,1028.0,0.7219341253192815,0.778831396374016
+Nagi Jewellers,"Janakpuri, Delhi",jewellery shops,4.8,776.0,0.729772117419098,0.7771294095290087
+Ganesh Restaurant,"Karol Bagh, Delhi",restaurants,4.1,4341.0,0.6886796333850927,0.7766778194941324
+Spanish Churros,"Rajouri Garden, Delhi",bakeries,4.9,272.0,0.7760488771179869,0.7764349060241132
+Mazaar Restaurant,"Lajpat Nagar, Delhi",restaurants,4.3,8788.0,0.6846237524343662,0.7764338585379663
+Smelling Salts,"Ashok Vihar, Delhi",restaurants,4.2,2751.0,0.6940323623301419,0.7762724806207186
+Versha Clinic,"Karol Bagh, Delhi",clinics,4.9,555.0,0.7386995427435225,0.775645043242265
+Cafe' Russmunch,"Pitampura, Delhi",cafes,4.4,1470.0,0.7052587992599204,0.7746846196895567
+SHEIN STYLE STORE,"Saket, Delhi",clothing stores,4.9,6406.0,0.6828226655095554,0.77457621187745
+Body Mechanics | Best Gym in East Delhi,"Preet Vihar, Delhi",gyms,4.6,563.0,0.7362735635816754,0.7745177920850274
+SLAM SALON A LUXURY SALON,"Model Town, Delhi",salons,4.9,568.0,0.7352808327268148,0.7741602507288394
+Dripping Dose,"Patel Nagar, Delhi",cafes,4.5,855.0,0.7214008989054551,0.7738906638358947
+BL Jewellers,"Dwarka, Delhi",jewellery shops,4.8,1075.0,0.711643515252339,0.7724065160399591
+Vardaan Mobile,"Malviya Nagar, Delhi",mobile shops,5.0,1017.0,0.7124313316666537,0.7713230394330935
+Kym’s Salon,"Rajouri Garden, Delhi",salons,4.7,470.0,0.7385152850823778,0.7709745403881143
+Apollo Clinic - Best Clinic | X Ray | Physiotherapy | TMT | ECG | 2D Echo Test | Ultrasound | PFT,"Greater Kailash, Delhi",clinics,4.8,1286.0,0.7021886224946458,0.7704593713863903
+Manohar Lal Jewellers Preet Vihar,"Preet Vihar, Delhi",jewellery shops,4.8,4465.0,0.677956154028803,0.7694308995156638
+N S Telecom,"Ashok Vihar, Delhi",mobile shops,4.9,1236.0,0.7010313393852668,0.7689745327253961
+Hunger Strike,"Lajpat Nagar, Delhi",restaurants,4.1,11760.0,0.6711053258372816,0.767697603518623
+Gehna Store(A.G. artificial jewellery store),"Rohini, Delhi",jewellery shops,4.8,275.0,0.7628591110200221,0.7675653915548459
+R.K Steel Furniture,"Tilak Nagar, Delhi",furniture stores,4.9,1559.0,0.6941246765418984,0.76748761960009
+Epicuria Food & Entertainment HUB,"Nehru Place, Delhi",restaurants,4.4,25741.0,0.6672656999291635,0.7668005228223868
+Amyra Jewels - Vikas Marg,"Preet Vihar, Delhi",jewellery shops,4.9,4582.0,0.6738344475000722,0.766649511173926
+Café Amudham Restaurant Punjabi Bagh,"Punjabi Bagh, Delhi",restaurants,4.6,326.0,0.7521070146331016,0.7659558791013026
+"Uncultured Cafe, Bar, Sky Culture","Greater Kailash, Delhi",cafes,4.1,2899.0,0.6774102565636788,0.765156037726063
+N S Telecom,"Model Town, Delhi",mobile shops,4.9,1236.0,0.6950483223678727,0.7647864208132202
+CAFE BELMONTE - Bar & Restaurant,"Kalkaji, Delhi",restaurants,4.4,696.0,0.7144446827356256,0.7644797900256645
+SHEIN STYLE STORE,"Mayapuri, Delhi",clothing stores,4.9,6406.0,0.6680899998396335,0.7642633459085046
+Smart Mobile Store,"Punjabi Bagh, Delhi",mobile shops,4.9,2842.0,0.6757351696462542,0.7637499128700249
+Elito Coffee Eatery,"Dwarka, Delhi",cafes,4.5,521.0,0.7215773675141525,0.7619986209277267
+Cafe Wink,"Preet Vihar, Delhi",cafes,4.3,9447.0,0.6635142704838924,0.7619686398577559
+Narang Legacy | Nirankari Gems & Jewels,"Mukherjee Nagar, Delhi",jewellery shops,4.8,2495.0,0.6741767594331258,0.7612835931948836
+Telepathy,"Connaught Place, New Delhi",electronics shops,4.9,1024.0,0.6970829984352097,0.7610982373129512
+CAFE BELMONTE - Bar & Restaurant,"Kalkaji, Delhi",cafes,4.4,696.0,0.7092472844286952,0.7608416112108133
+Soni Sapphire,"Rajouri Garden, Delhi",jewellery shops,4.7,882.0,0.7014773659804955,0.7606448828299455
+Patiaala House Restaurant in Delhi,"Vikaspuri, Delhi",restaurants,4.5,1567.0,0.6841006619849354,0.7605486640814962
+Nagi Jewellers,"Vikaspuri, Delhi",jewellery shops,4.8,776.0,0.7059695912443228,0.760467641206666
+Puri Bakers,"Punjabi Bagh, Delhi",bakeries,4.2,2123.0,0.6771578128007121,0.7604118530435433
+Echoes,"Greater Kailash, Delhi",cafes,4.5,395.0,0.7334661075244856,0.7597065520837489
+S Three Western Villa,"Pitampura, Delhi",clothing stores,4.5,448.0,0.724949945741489,0.7596102907387654
+"Dr. Manas Chopra's Skin Clinic | Best Doctor for Chemical Peel, PRP ,Wrinkle Treatment & Hyper Pigmentation Treatment","Janakpuri, Delhi",clinics,4.8,254.0,0.7549536861293933,0.7591769228511289
+Ever Bake,"Ashok Vihar, Delhi",bakeries,4.2,7255.0,0.659898183273259,0.7588923961113505
+Kanak Jewellers,"Patel Nagar, Delhi",jewellery shops,4.8,2374.0,0.6711008610226573,0.7587671425082476
+H2B Salon,"Kamla Nagar, Delhi",salons,4.8,2280.0,0.6730007819717626,0.7583583328473618
+Advance Diagnostics imaging & Dental Clinic - | Best Diagnostics in Janakpuri | Best Diagnostics Centre in Janakpuri,"Janakpuri, Delhi",clinics,4.6,614.0,0.7100046910490284,0.7579461903087144
+Divine Skinsthetic,"Punjabi Bagh, Delhi",clinics,4.7,229.0,0.7593122253477086,0.7578939902693476
+Hemraj Jain Hospital,"Pitampura, Delhi",clinics,4.8,661.0,0.7065549006665937,0.757607461608484
+Apollo Clinic - Bhartimedicare Pvt Ltd,"Mayapuri, Delhi",clinics,4.3,1825.0,0.6760251219576403,0.7573611839862652
+Janta Eating House LLP,"Shahdara, Delhi",restaurants,4.1,3718.0,0.6632626463332304,0.7573288351322232
+"DIABETES, SKIN & HAIR CLINIC(Dr Ritesh Bansal & Dr Candy Garg)","Shahdara, Delhi",clinics,5.0,214.0,0.7625204077397121,0.7572071919921929
+Café Amudham Restaurant Punjabi Bagh,"Punjabi Bagh, Delhi",cafes,4.6,326.0,0.7393808415096391,0.7570475579148788
+Spacelift - Verma sales corporation (Since 1986),"Mayur Vihar, Delhi",electronics shops,4.7,658.0,0.7060174880366261,0.7570236603107594
+JAI SHREE RESTAURANT BANQUET HOTEL,"Burari, Delhi",restaurants,4.1,1129.0,0.687849305711941,0.7569443409879781
+Xero Degrees,"Mayur Vihar, Delhi",cafes,4.7,2369.0,0.6684273097040011,0.756817801913908
+The Record Room -Best Bar | Best Party Place | Best Pub | Hauz Khas South Delhi,"Hauz Khas, Delhi",restaurants,4.3,1922.0,0.6742735926872557,0.7565243868533973
+Xzizt,"Mayur Vihar, Delhi",clothing stores,4.3,2838.0,0.664611619469618,0.7558855730750993
+Pastry Palace,"Vikaspuri, Delhi",bakeries,4.1,2745.0,0.6635287996466323,0.7548161805138882
+Dr. Renu Garg's Clinics,"Mayur Vihar, Delhi",clinics,4.8,238.0,0.7516659558343087,0.7543841621636008
+The Big Chill Cakery,"South Extension, Delhi",bakeries,4.4,1816.0,0.6717343040841764,0.7541240474609996
+Cafeteria & Co.,"Model Town, Delhi",cafes,4.4,13486.0,0.650736112826375,0.7541138948954175
+Bedi Ultrasound,"Patel Nagar, Delhi",clinics,4.8,479.0,0.7115871226248409,0.7527995671522675
+"Jawed Habib Hair & Beauty Salon, Kamla Nagar","Civil Lines, Delhi",salons,4.8,2050.0,0.6669192146287157,0.7525441422816235
+Babyhug Store Delhi Patel Nagar,"Patel Nagar, Delhi",clothing stores,4.8,1223.0,0.677610656931978,0.7522167332087859
+Dronacharya The Gym,"Mukherjee Nagar, Delhi",gyms,4.4,471.0,0.7113459615189385,0.7520598201220804
+Gastronomica,"Greater Kailash, Delhi",restaurants,4.1,2167.0,0.6647097587012929,0.7519058276306974
+Kaka Jewellers,"Kamla Nagar, Delhi",jewellery shops,4.9,403.0,0.7204638811012022,0.7513056856289729
+Lajpat Nagar Market,"Lajpat Nagar, Delhi",clothing stores,4.3,15834.0,0.6455650427502262,0.7508834191985148
+Refyn Unisex Salon,"Pitampura, Delhi",salons,4.6,1243.0,0.6746605899610685,0.7507745236993915
+Safdarjung Development Area market,"Hauz Khas, Delhi",furniture stores,4.3,18290.0,0.6450124647089559,0.7506782754692795
+Echoes,"Mukherjee Nagar, Delhi",restaurants,4.4,4906.0,0.6496026286600396,0.7503879300274257
+MINISO Preet Vihar,"Preet Vihar, Delhi",clothing stores,4.4,2248.0,0.6611827371655234,0.749878089026247
+Cafe Wink,"Laxmi Nagar, Delhi",cafes,4.3,9447.0,0.6457406442426245,0.7495271014888683
+Zahra Restaurant & Café - Shaheen bagh,"Okhla, Delhi",restaurants,4.4,3907.0,0.650396293237508,0.7494123533631414
+Cafe Crew Brew,"Pitampura, Delhi",cafes,4.8,437.0,0.7111390415642274,0.7492419657731598
+USHA Company Store,"Kamla Nagar, Delhi",electronics shops,4.8,1424.0,0.6694015676845556,0.7491174295591196
+I N A Market,"South Extension, Delhi",grocery stores,4.2,25161.0,0.6410380156269792,0.7483632891395775
+Siloffer,"Greater Kailash, Delhi",jewellery shops,4.6,1592.0,0.6651763275052952,0.7476130486308692
+Epicuria Food & Entertainment HUB,"Nehru Place, Delhi",cafes,4.4,25741.0,0.6396295716834897,0.7474552330504151
+Concordia Overseas Education,"Preet Vihar, Delhi",tutoring centers,4.7,270.0,0.735485874680927,0.7474439185050226
+Dronacharya The Gym,"Civil Lines, Delhi",gyms,4.4,471.0,0.7045651974289111,0.7473132852590613
+Vardaan Mobile,"Saket, Delhi",mobile shops,5.0,1017.0,0.6777010908259786,0.747011870844621
+Aggarwal Computers,"Janakpuri, Delhi",electronics shops,4.8,593.0,0.6953809277771017,0.7469569608626563
+The Big Chill Cakery,"Nehru Place, Delhi",bakeries,4.4,1816.0,0.6612988709325684,0.746819244254874
+Maddi Sweets and bakery,"South Extension, Delhi",bakeries,4.3,814.0,0.6844472291805537,0.7467514687308858
+Gadget Arena,"Kamla Nagar, Delhi",electronics shops,4.8,1116.0,0.6732578683135813,0.7466005770236591
+Star look Hair Salon - Hari Nagar,"Mayapuri, Delhi",salons,4.9,827.0,0.683232319433434,0.7465238692781442
+Safdarjung Development Area market,"Hauz Khas, Delhi",grocery stores,4.3,18290.0,0.6388245782805785,0.7463467549694152
+BURNOUT FITNESS CLUB,"Lajpat Nagar, Delhi",gyms,4.8,450.0,0.7054270341967945,0.7459961557716661
+Meenu Fusion Salon,"Rajouri Garden, Delhi",salons,4.7,2049.0,0.6576319818478911,0.7459652246637659
+Cafe Rendezvous,"Malviya Nagar, Delhi",cafes,4.2,2424.0,0.6522082939934095,0.7458018611587084
+Makeup & Hair studio - FUSION BEAUTY SALON,"Uttam Nagar, Delhi",salons,4.6,333.0,0.7221988263537834,0.7457986940185827
+Pinch of Spice Dwarka,"Dwarka, Delhi",restaurants,4.5,1731.0,0.6603618439411046,0.7454366817622333
+N S Telecom,"Mukherjee Nagar, Delhi",mobile shops,4.9,1236.0,0.6672588960345324,0.745333822379882
+Cafe Crew Brew,"Netaji Subhash Place, Delhi",cafes,4.8,437.0,0.7040934160159422,0.7443100278893602
+HAIRCRAFT UNISEX SALON,"Karol Bagh, Delhi",salons,4.8,1226.0,0.6655399813793442,0.7438191634361292
+GURU KIRPA HANDLOOM EMPORIUM,"Rohini, Delhi",furniture stores,4.8,368.0,0.7145772426733197,0.7437853847502164
+Apni Chaupaal,"Chandni Chowk, Delhi",restaurants,4.5,382.0,0.7110717635121878,0.7430443521055903
+Beliram Degchiwala,"Malviya Nagar, Delhi",restaurants,4.1,1167.0,0.6663095645870808,0.7425931657991918
+Smile N Care Dental Clinics Implant Center,"Karol Bagh, Delhi",clinics,4.9,241.0,0.7334204632615442,0.7419756391619736
+Oberoi Dhaba malviya nagar,"Malviya Nagar, Delhi",restaurants,4.1,994.0,0.6708270748943199,0.7419145925644322
+BOA Village,"Civil Lines, Delhi",restaurants,4.2,4350.0,0.6388330123878011,0.7418630394673085
+Headlocks Unisex Salon,"Punjabi Bagh, Delhi",salons,4.9,1376.0,0.6595376283256801,0.7416936408660383
+Bak On Holliccs,"Patel Nagar, Delhi",bakeries,4.8,510.0,0.6931817681312408,0.7411355421901384
+Castle's Barbeque - Janakpuri,"Janakpuri, Delhi",restaurants,4.4,3180.0,0.64202191532276,0.7410070362276621
+Wizard digitek computers pvt ltd,"Model Town, Delhi",mobile shops,4.6,3465.0,0.6406188229805576,0.7408553214151099
+Sharma Furniture,"Janakpuri, Delhi",furniture stores,4.9,378.0,0.7078603039292063,0.7404070570411019
+Pastry Palace,"Janakpuri, Delhi",bakeries,4.1,2745.0,0.6428966845783285,0.7403736999660755
+Shri Makeovers,"Vikaspuri, Delhi",salons,4.9,250.0,0.7285330967502507,0.740189430700954
+Hair Masters Luxury Salon Dwarka,"Dwarka, Delhi",salons,4.3,849.0,0.6731138171629163,0.7399339972735569
+Cafe Wink,"Shahdara, Delhi",cafes,4.3,9447.0,0.6319539539802207,0.7398764183051856
+The Big Chill Cakery,"Chandni Chowk, Delhi",bakeries,4.4,1816.0,0.6511769612501925,0.7397339074772109
+Team Satpal gym (Arun yadav),"Patel Nagar, Delhi",gyms,4.9,574.0,0.6852175578719253,0.739427377015538
+Bhaja Govindam,"Chandni Chowk, Delhi",cafes,4.3,2976.0,0.6397707875252961,0.7393014889839702
+BOA Village,"Civil Lines, Delhi",cafes,4.2,4350.0,0.6350247302773869,0.7391972419900186
+Smart Mobile Store,"Dwarka, Delhi",mobile shops,4.9,2842.0,0.6405961559323132,0.7391526032702662
+Bhaja Govindam,"Chandni Chowk, Delhi",restaurants,4.3,2976.0,0.6379474359411071,0.738025142875038
+The Spicy Pinch-Best foods in delhi,"Rohini, Delhi",restaurants,4.8,217.0,0.7337303343898092,0.7378326873600636
+Grapi,"Malviya Nagar, Delhi",cafes,4.7,348.0,0.7085789321350638,0.7378218614910844
+Zewrat E Noor Jewellers,"Rajouri Garden, Delhi",jewellery shops,4.4,324.0,0.712167158009176,0.7377125123365269
+Puri Bakers – Top Bakery in Janakpuri | Affordable bakery and cafe in Delhi | Janakpuri,"Janakpuri, Delhi",bakeries,4.5,199.0,0.7381211065898348,0.7375584770350296
+S Salon,"Greater Kailash, Delhi",salons,4.8,663.0,0.6767724755668716,0.7368895218241457
+Meenu Makeover And Beauty Salon ( Best Salon in vikaspuri,"Vikaspuri, Delhi",salons,4.8,255.0,0.7222221678495357,0.7363167631694154
+Foresta Bistro and Cafe,"Saket, Delhi",cafes,4.2,1509.0,0.6496390887677254,0.7360103379159544
+Glossy luxury salon,"Rohini, Delhi",salons,4.8,301.0,0.7135963362020804,0.7359361204625635
+bharti's,"Rajendra Nagar, Delhi",salons,4.8,754.0,0.6716757297515993,0.7357871976773305
+Riya Group Foundation coaching|Maths|Physics|Chemistry|Tuition||Science|Tutorials|Class 6|Class7|Class 8|Class 9|Class 10,"Punjabi Bagh, Delhi",tutoring centers,4.9,426.0,0.6946155038557006,0.735599364809717
+"Guru Nanak Textiles Ladies Suits Wholesale Shop , Factory Godown","Chandni Chowk, Delhi",clothing stores,4.8,856.0,0.6661293470764647,0.735304383783975
+The Big Chill Cakery,"Civil Lines, Delhi",bakeries,4.4,1816.0,0.6448166546360298,0.7352816928472969
+The Tasteland - Bubble Tea & Coffee Bar,"Netaji Subhash Place, Delhi",cafes,4.7,361.0,0.7034988697449329,0.7352000738733561
+The Potbelly – Hauz Khas,"Hauz Khas, Delhi",restaurants,4.3,2968.0,0.6340147180057744,0.7351684340919313
+Xero Degrees,"Mayur Vihar, Delhi",restaurants,4.7,2369.0,0.6370542124703196,0.7348566338503308
+Akash Gulati Classes,"Laxmi Nagar, Delhi",tutoring centers,4.9,516.0,0.6835315047278275,0.7347955827212439
+Modish Wear,"Rohini, Delhi",clothing stores,4.8,1005.0,0.6600371458077116,0.7345692546605538
+Ayesha Salon Makeup Studio,"Rajouri Garden, Delhi",salons,4.8,203.0,0.7326826978990738,0.7345041861072064
+Echoes,"Rajouri Garden, Delhi",cafes,4.5,433.0,0.6887421190029337,0.7333305559664134
+Living Room by Kalsang,"Civil Lines, Delhi",restaurants,4.6,1645.0,0.6428764468411123,0.7326259695361834
+Titan first fitness gym,"Saket, Delhi",gyms,4.9,770.0,0.6663792930092618,0.7325727715424694
+"Jawed Habib Hair & Beauty Salon, Kamla Nagar","Kamla Nagar, Delhi",salons,4.8,2050.0,0.6381311410407757,0.7323924907700654
+Shakti Gems & Jewels - Jeweller In Greater Kailash - Govt. Approved Valuer In Delhi,"Greater Kailash, Delhi",jewellery shops,4.8,266.0,0.7144294423109442,0.7320037238045121
+Appearance Unisex Salon ( Best salon Near me),"Kamla Nagar, Delhi",salons,4.8,1024.0,0.6554518526174934,0.7319564352405499
+Birch By Romeo Lane Restaurant - Pacific Mall,"Netaji Subhash Place, Delhi",restaurants,4.4,1583.0,0.64289900139496,0.7318372594539806
+Birch By Romeo Lane Restaurant - Pacific Mall,"Netaji Subhash Place, Delhi",cafes,4.4,1583.0,0.6425846420483555,0.7316172079113574
+G3 cafe - Best Rooftop in East Delhi,"Preet Vihar, Delhi",restaurants,4.2,608.0,0.6725579068475941,0.7314479742396827
+Maximum Outfits,"Lajpat Nagar, Delhi",clothing stores,4.1,4689.0,0.6232897045322713,0.7313719973248389
+Natty's Cafe | Best Coffee & Desserts shop in Janakpuri,"Janakpuri, Delhi",cafes,4.9,329.0,0.7019510547223317,0.7312100289630715
+Jughead's Fast Food,"South Extension, Delhi",restaurants,4.2,1429.0,0.6437212560707999,0.7311931145436775
+The Yellow Chilli,"Rajouri Garden, Delhi",restaurants,4.8,1967.0,0.6374758591022288,0.7311292951431865
