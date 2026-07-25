@@ -6,10 +6,10 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import joblib
 import json
-from datetime import datetime
+from pathlib import Path
 from scipy.stats import linregress
 
-# Configuration
+BASE_DIR = Path(__file__).parent
 st.set_page_config(
     page_title="Movie Analytics Dashboard",
     page_icon="🎬",
@@ -52,20 +52,20 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("tmdb_cleaned.csv")
+    df = pd.read_csv(BASE_DIR / "tmdb_cleaned.csv")
     df['release_date'] = pd.to_datetime(df['release_date'], errors='coerce')
     return df
 
 @st.cache_resource
 def load_model():
     try:
-        model = joblib.load("models/best_model.pkl")
-        with open("models/feature_columns.json", "r") as f:
+        model = joblib.load(BASE_DIR / "models" / "best_model.pkl")
+        with open(BASE_DIR / "models" / "feature_columns.json", "r") as f:
             features = json.load(f)
-        with open("models/model_metrics.json", "r") as f:
+        with open(BASE_DIR / "models" / "model_metrics.json", "r") as f:
             metrics = json.load(f)
         return model, features, metrics
-    except Exception as e:
+    except Exception:
         return None, None, None
 
 # Load resources
@@ -197,11 +197,8 @@ elif page == "Genres":
     st.title("Genre Analysis")
     
     genre_stats = get_genre_stats()
-    genre_stats = genre_stats.sort_values('Avg_Rating', ascending=False)
-    col1, col2 = st.columns(2)
-    with col1:
-        sort_by = st.selectbox("Sort by", ["Avg_Rating", "Count", "Avg_Budget"])
-        genre_stats = genre_stats.sort_values(sort_by, ascending=False)
+    sort_by = st.selectbox("Sort by", ["Avg_Rating", "Count", "Avg_Budget"])
+    genre_stats = genre_stats.sort_values(sort_by, ascending=False)
 
     col1, col2 = st.columns(2)
     with col1:
@@ -381,7 +378,9 @@ elif page == "Model Info":
     fig.update_layout(xaxis_title="Model",yaxis_title="R² Score",height=400,showlegend=False)
     st.plotly_chart(fig, use_container_width=True)
     try:
-        importance_df = pd.read_csv("models/feature_importance.csv")
+        importance_df = pd.read_csv(BASE_DIR / "models" / "feature_importance.csv")
+        if 'feature' not in importance_df.columns:
+            importance_df.columns = ['feature', 'importance']
         st.markdown("---")
         st.subheader("Feature Importance")
         top_n = st.slider("Number of features", 5, len(importance_df), 10)
@@ -390,7 +389,7 @@ elif page == "Model Info":
         fig.update_layout(height=400)
         st.plotly_chart(fig, use_container_width=True)
         
-    except:
+    except Exception:
         pass
 
 st.markdown("---")
